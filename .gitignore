@@ -1,0 +1,9 @@
+картинки/
+литобзор/
+Задача_на_генерацию/
+literature/
+data/
+*.pdf
+*.doc
+*.docx
+!article8.docx
